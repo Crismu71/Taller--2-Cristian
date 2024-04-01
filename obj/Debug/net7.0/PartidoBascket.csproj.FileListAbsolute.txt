@@ -1,0 +1,14 @@
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\bin\Debug\net7.0\PartidoBascket.exe
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\bin\Debug\net7.0\PartidoBascket.deps.json
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\bin\Debug\net7.0\PartidoBascket.runtimeconfig.json
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\bin\Debug\net7.0\PartidoBascket.dll
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\bin\Debug\net7.0\PartidoBascket.pdb
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.GeneratedMSBuildEditorConfig.editorconfig
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.AssemblyInfoInputs.cache
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.AssemblyInfo.cs
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.csproj.CoreCompileInputs.cache
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.dll
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\refint\PartidoBascket.dll
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.pdb
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\PartidoBascket.genruntimeconfig.cache
+D:\aorregoh\Desktop\Vlentina\PartidoBascket\obj\Debug\net7.0\ref\PartidoBascket.dll
